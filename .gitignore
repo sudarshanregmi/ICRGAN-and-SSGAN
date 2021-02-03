@@ -1,0 +1,6 @@
+fid_stat/
+__pycache__/
+data/
+logs/
+wandb/
+
