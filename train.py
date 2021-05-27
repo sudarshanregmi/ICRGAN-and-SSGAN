@@ -28,7 +28,6 @@ torch.backends.cudnn.enabled = True
 torch.backends.cudnn.benchmark = True
 
 import wandb
-os.system('python -m wandb.cli login adea88e8f8ed7d3f9f7734d9b11f0e961ed58d43')
 
 def main():
     args = cfg.parse_args()
